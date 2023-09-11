@@ -1,0 +1,7 @@
+import javax.swing.JOptionPane;
+public class OlaMundo{
+public static void main (strings args[]) {;
+JOptionPane.showMessageDialog(null, "Oi mi amor, estoy triste");
+System.exit(0);
+}
+}

@@ -1,0 +1,7 @@
+public class Leitura{
+public static void main (strings args[]) {;
+System.out.println("nota1");
+System.out.println ("nota2");
+System.out.println("Média");
+}
+}

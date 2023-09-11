@@ -1,0 +1,13 @@
+package meuPrimeiroProjetoJavaNoEclipse;
+import javax.swing.JOptionPane;
+
+public class MinhaPrimeiraClasse {
+	public static void main(String args[]) {
+		int resp = 10, num = 5;
+
+		System.out.println(!(7 > 3)); //false
+		System.out.println((2 > 5) || (7 > 3)); //true
+		System.out.println((5 > 2) && (7 > 3)); //true
+		
+}
+}
